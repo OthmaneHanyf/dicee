@@ -1,5 +1,7 @@
 # dicee
 
+![plot](dicee.png)
+
 A new Flutter project.
 
 ## Getting Started
